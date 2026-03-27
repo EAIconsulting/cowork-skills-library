@@ -1,0 +1,11 @@
+{
+  "name": "cowork-skills",
+  "description": "21 skills that guide you from Cowork beginner to power user. Bridge the gap between what Cowork can do and what you know how to make it do. By Everyday AI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Everyday AI (Milind Bhat)",
+    "url": "https://everydayaiapp.com"
+  },
+  "homepage": "https://github.com/EAIconsulting/cowork-skills-library",
+  "license": "MIT"
+}

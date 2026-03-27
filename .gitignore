@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+
+# Internal build artifacts (not part of the deliverable)
+_bmad/
+_bmad-output/
+_tools/
+CLAUDE.md
+decisions-log.md
+progress-log.md
+blockers.md
+overnight-prompt.md
+morning-summary.md
+skills-v2/
+research/
+docs/
