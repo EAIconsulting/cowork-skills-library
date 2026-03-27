@@ -1,0 +1,34 @@
+name: Welcome new contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Thanks for opening your first issue! We'll review it soon.
+
+            While you wait:
+            - Check [START-HERE.md](../blob/main/START-HERE.md) for a guided tour of the library
+            - Browse [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) if you'd like to contribute a fix
+          pr-message: |
+            Thanks for your first PR! We appreciate contributions to the Cowork Skills Library.
+
+            Please make sure:
+            - [ ] Your skill uses plain language (no developer jargon)
+            - [ ] The description includes natural trigger phrases
+            - [ ] You've tested the skill in Cowork
+
+            A maintainer will review your changes soon.
