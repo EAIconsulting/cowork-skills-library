@@ -119,7 +119,7 @@ COWORK HEALTH CHECK RESULTS
 ============================
 Preferences & Personalization:  [X]/10
 Connected Tools:                 [X]/10
-Plugins:                         [X]/10
+Skills & Automations:            [X]/10
 Workflows & Repeating Tasks:     [X]/10
 Advanced Features:               [X]/10
 ----------------------------
@@ -132,7 +132,7 @@ TOTAL:  [X]/50
 41-50: Power user — fine-tuning from here
 ```
 
-For each category, give 1-2 specific findings. Not generic ("you could use more plugins") but precise ("You have Gmail connected but Calendar isn't — which means Cowork can't see your schedule when helping with meeting prep or time blocking").
+For each category, give 1-2 specific findings. Not generic ("you could use more skills") but precise ("You have Gmail connected but Calendar isn't — which means Cowork can't see your schedule when helping with meeting prep or time blocking").
 
 ### Step 4: Deliver the Improvement Plan
 
