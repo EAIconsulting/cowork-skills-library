@@ -1,5 +1,5 @@
 ---
-name: teach-claude-your-voice
+name: teach-your-voice
 description: 'Builds a personal voice profile so Cowork writes the way you write —
   not like a generic AI. Use when personalizing your writing style, for capturing
   your communication patterns and tone, during setup after getting generic-sounding output,
@@ -219,7 +219,7 @@ Before finishing:
 ## Troubleshooting
 
 **Skill didn't activate when I described my task?**
-Try invoking directly with `/teach-claude-your-voice` to start the voice interview.
+Try invoking directly with `/teach-your-voice` to start the voice interview.
 
 **The voice profile didn't stick — output still sounds generic?**
 Make sure you activated the profile using Option 1 (always-on) by adding the reference line to Cowork's Preferences settings. Task-by-task activation (Option 2) requires you to reference the profile explicitly at the start of each writing task.
