@@ -28,7 +28,7 @@ actual style. If not, it will ask for voice guidance before drafting.
 
 - **Parallel workers:** Research phase runs multiple workers simultaneously — one per source type — so you
   get comprehensive research in a fraction of the time
-- **Voice profile:** If you have completed the teach-claude-your-voice skill, all output matches your writing
+- **Voice profile:** If you have completed the teach-your-voice skill, all output matches your writing
   style. The blog post will sound like you wrote it, not like AI wrote it for you
 - **Connected tools:** If publishing tools are connected (Notion, Webflow, LinkedIn, Beehiiv), finished content
   can be posted or staged directly from this session
@@ -227,7 +227,7 @@ writes the email excerpt and three social posts, and delivers the partial packag
 ## Troubleshooting
 
 **Issue: "The blog post sounds like AI wrote it, not me"**
-Complete the teach-claude-your-voice skill (Tier 2) before running the content engine. That voice profile
+Complete the teach-your-voice skill (Tier 2) before running the content engine. That voice profile
 is what makes output sound like you. Without it, ask: "Write this in a direct, conversational tone —
 avoid jargon, keep sentences short, and use the word 'you' often."
 
@@ -244,4 +244,4 @@ with one sentence per line." The skill will revise to spec.
 
 See also: **research-synthesizer** — for deeper research before starting a content piece on a complex topic.
 Related: **weekly-business-pulse** — surfaces content-relevant decisions and conversations to draw from.
-Related: **teach-claude-your-voice** (Tier 2) — required for voice-matched content output.
+Related: **teach-your-voice** (Tier 2) — required for voice-matched content output.

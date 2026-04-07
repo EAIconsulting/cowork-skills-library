@@ -233,5 +233,5 @@ Tell the skill your role and two or three of your most common task types. It wil
 
 See also:
 - `/cowork-setup-wizard` — Set up your preferences so Cowork already knows your context before you delegate
-- `/teach-claude-your-voice` — Capture your tone and style so delegated writing sounds like you
+- `/teach-your-voice` — Capture your tone and style so delegated writing sounds like you
 - `/context-manager` — Learn how to break large delegated projects into stages and hand off between sessions

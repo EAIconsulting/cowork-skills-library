@@ -231,7 +231,7 @@ The location varies by Cowork version. Look for "Personalization", "User Context
 ## Related Skills
 
 See also:
-- `/teach-claude-your-voice` — Build a writing voice profile after your preferences are in place
+- `/teach-your-voice` — Build a writing voice profile after your preferences are in place
 - `/safety-and-audit` — Set up file protection and change logging alongside your preferences
 - `/what-can-cowork-do` — Discover the best Cowork use cases for your specific role
 - `/safe-first-task` — Start with a zero-risk first session before running setup
